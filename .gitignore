@@ -1,0 +1,21 @@
+# Dependency directories
+*/node_modules
+node_modules
+
+# dotenv environment variables file
+*/.env
+*/.env.test
+
+    
+# Logs
+*/logs
+*/*.log
+*/npm-debug.log*
+
+package-lock.json
+*/package-lock.json
+
+
+.eslintrc
+
+nodemon.json
