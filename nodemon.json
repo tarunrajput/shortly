@@ -1,7 +1,7 @@
 {
     "env": {
         "mongoURI": "mongodb+srv://tarun1323:tarun1323@shortlycluster.qpbbx.mongodb.net/shortly?retryWrites=true&w=majority",
-        "baseUrl": "http://url-shortly.herokuapp.com:5000",
+        "baseUrl": "https://url-shortly.herokuapp.com:5000",
         "NODE_ENV": "development"
     }
 }
