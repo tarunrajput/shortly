@@ -304,7 +304,7 @@ class App extends Component {
         <div className="float-right">
           <h6>
             <a
-              href="https://github.com/tarunrajput/url_shortner"
+              href="https://github.com/tarunrajput/shortly"
               className="alert-link"
             >
               Source
