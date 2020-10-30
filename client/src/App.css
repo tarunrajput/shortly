@@ -17,8 +17,8 @@
 }
 
 .card {
-  background: rgba(0,0,0,.4);
-  box-shadow: 0 15px 25px rgba(0,0,0,.6);
+  background: #0E0B16;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
   color: #ffc107;
 }
 
@@ -26,6 +26,17 @@
   background-color: #161620;
   border: none;
   color: #ffc107;
+}
+
+.particles {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .alert-link {
