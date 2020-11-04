@@ -1,13 +1,18 @@
 <h1 align="center">🔗 Shortly - A Simple URL Shortner </h1>
+
 <div align="center">
 
 ![Heroku](https://pyheroku-badge.herokuapp.com/?app=url-shortly&style=flat)
 
-</div>
+![Shortly Demo](screenshots/demo.gif)
 
+</div>
 > This is a URL Shortner built using MERN Stack.
 
 ### 🏠 [Homepage](http://url-shortly.herokuapp.com)
+
+
+
 
 ## Prerequisites
 
